@@ -21,4 +21,5 @@ Feel free to experiment here: https://www.kaggle.com/alexanch/image-classificati
    
    
 Source: https://docs.fast.ai/applications.html#data
+
 Fashion MNIST: https://github.com/zalandoresearch/fashion-mnist
