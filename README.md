@@ -22,3 +22,5 @@ Multi-class image classifier on the fashion MNIST dataset utilizing fastai libra
  <br /> <br />
 Source: [[docs.fast.ai]](https://docs.fast.ai/applications.html#data) <br />
 Original dataset: [[Fashion MNIST]](https://github.com/zalandoresearch/fashion-mnist)
+
+Dataset converted to CSV: https://pjreddie.com/projects/mnist-in-csv/
