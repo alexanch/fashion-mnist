@@ -2,10 +2,9 @@
 Multi-class image classifier on the fashion MNIST dataset utilizing fastai library.
 
 
-### fastai can be used to solve different types of problems: collab. filtering, vision, text, tabular. 
-### More info: https://docs.fast.ai/applications.html#data
-### In each case (except for collab filtering), the module is organized this way:
+#### fastai can be used to solve different types of problems: collab. filtering, vision, text, tabular. More info: https://docs.fast.ai/applications.html#data
 
+#### In each case (except for collab filtering), the module is organized this way:
 - **transform:**
   This sub-module deals with the pre-processing (data augmentation for images, cleaning for tabular data, tokenizing and numericalizing for text).
 
