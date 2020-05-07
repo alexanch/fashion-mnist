@@ -2,7 +2,7 @@
 Multi-class image classifier on the fashion MNIST dataset utilizing fastai library.
 
 
-#### fastai can be used to solve different types of problems: collab. filtering, vision, text, tabular. More info: [docs.fast.ai]( https://docs.fast.ai/applications.html#data)
+#### fastai can be used to solve different types of problems: collab. filtering, vision, text, tabular. More info: [[docs.fast.ai]]( https://docs.fast.ai/applications.html#data)
 
 #### In each case (except for collab filtering), the module is organized this way:
 - **transform:**
@@ -20,5 +20,5 @@ Multi-class image classifier on the fashion MNIST dataset utilizing fastai libra
 **Feel free to experiment here:** [kaggle.com](https://www.kaggle.com/alexanch/image-classification-w-fastai-fashion-mnist)   
    
    
-Source: [docs.fast.ai](https://docs.fast.ai/applications.html#data) <br />
-Original dataset: [Fashion MNIST]https://github.com/zalandoresearch/fashion-mnist
+Source: [[docs.fast.ai]](https://docs.fast.ai/applications.html#data) <br />
+Original dataset: [[Fashion MNIST]](https://github.com/zalandoresearch/fashion-mnist)
