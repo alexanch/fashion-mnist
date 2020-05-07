@@ -7,10 +7,13 @@ Multi-class image classifier on the fashion MNIST dataset utilizing fastai libra
  <br />
 - **transform:**
   This sub-module deals with the pre-processing (data augmentation for images, cleaning for tabular data, tokenizing and numericalizing for text).
+  
 -  **data:**
    This sub-module defines the dataset class(es) to deal with this kind of data.
+   
 -  **models:**
    This sub-module defines the specific models used for this kind of data.
+   
 -  **learner:**
    When it exists, this sub-module contains functions that will directly bind this data with a suitable model and add the necessary callbacks.
   <br />
