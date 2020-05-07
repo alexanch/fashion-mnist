@@ -17,8 +17,8 @@ Multi-class image classifier on the fashion MNIST dataset utilizing fastai libra
 -  **learner:**
    When it exists, this sub-module contains functions that will directly bind this data with a suitable model and add the necessary callbacks.
    
-Feel free to experiment here: https://www.kaggle.com/alexanch/image-classification-w-fastai-fashion-mnist   
+**Feel free to experiment here:** https://www.kaggle.com/alexanch/image-classification-w-fastai-fashion-mnist   
    
    
-Source: https://docs.fast.ai/applications.html#data \\
+Source: https://docs.fast.ai/applications.html#data <br />
 Fashion MNIST: https://github.com/zalandoresearch/fashion-mnist
